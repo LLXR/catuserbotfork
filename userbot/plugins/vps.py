@@ -1,5 +1,5 @@
 # \\ Created by-@Jisan7509 -- Github.com/Jisan09 //
-#  \\   https://github.com/TgCatUB/catuserbot   //
+#  \\   https://github.com/LLXR/catuserbotfork/tree/custom   //
 #   \\       Plugin for @catuserbot            //
 #    ```````````````````````````````````````````
 

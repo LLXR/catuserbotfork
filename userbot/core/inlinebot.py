@@ -255,7 +255,7 @@ async def inline_handler(event):  # sourcery no-metrics
             buttons = [
                 (
                     Button.inline("Stats", data="stats"),
-                    Button.url("Repo", "https://github.com/TgCatUB/catuserbot"),
+                    Button.url("Repo", "https://github.com/LLXR/catuserbotfork/tree/custom"),
                 )
             ]
             ALIVE_PIC = gvarstatus("ALIVE_PIC")
@@ -605,7 +605,7 @@ async def inline_handler(event):  # sourcery no-metrics
     else:
         buttons = [
             (
-                Button.url("Source code", "https://github.com/TgCatUB/catuserbot"),
+                Button.url("Source code", "https://github.com/LLXR/catuserbotfork/tree/custom"),
                 Button.url(
                     "Deploy",
                     "https://github.com/TgCatUB/nekopack",
@@ -624,7 +624,7 @@ async def inline_handler(event):  # sourcery no-metrics
             type="photo",
             title="𝘾𝙖𝙩𝙐𝙨𝙚𝙧𝙗𝙤𝙩",
             description="Deploy yourself",
-            url="https://github.com/TgCatUB/catuserbot",
+            url="https://github.com/LLXR/catuserbotfork/tree/custom",
             thumb=photo,
             content=photo,
             send_message=types.InputBotInlineMessageMediaAuto(

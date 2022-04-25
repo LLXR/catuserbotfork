@@ -110,7 +110,7 @@ async def bot_start(event):
                         \n\nPowered by [Catuserbot](https://t.me/catuserbot)"
         buttons = [
             (
-                Button.url("Repo", "https://github.com/TgCatUB/catuserbot"),
+                Button.url("Repo", "https://github.com/LLXR/catuserbotfork/tree/custom"),
                 Button.url(
                     "Deploy",
                     "https://github.com/TgCatUB/nekopack",
